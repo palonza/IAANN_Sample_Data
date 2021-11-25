@@ -1,3 +1,5 @@
+import os
+
 def iter_incrementing_file_names(path):
     """
     Iterate incrementing file names. Start with path and add " (n)" before the
